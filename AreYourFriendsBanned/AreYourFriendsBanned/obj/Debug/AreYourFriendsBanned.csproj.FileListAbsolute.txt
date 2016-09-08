@@ -1,0 +1,8 @@
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\bin\Debug\AreYourFriendsBanned.exe.config
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\bin\Debug\AreYourFriendsBanned.exe
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\bin\Debug\AreYourFriendsBanned.pdb
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\obj\Debug\AreYourFriendsBanned.exe
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\obj\Debug\AreYourFriendsBanned.pdb
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\bin\Debug\Newtonsoft.Json.dll
+c:\users\zanderax\documents\visual studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zanderax\Documents\Visual Studio 2015\Projects\AreYourFriendsBanned\AreYourFriendsBanned\obj\Debug\AreYourFriendsBanned.csprojResolveAssemblyReference.cache
